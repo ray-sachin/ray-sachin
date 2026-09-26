@@ -33,18 +33,18 @@
 ```bash
 sachin@workstation:~$ neofetch --swe-profile
   
-       /\_/\          sachin@cisco-systems
-      ( o.o )         --------------------
-       > ^ <          OS: Ubuntu 24.04 LTS / Arch Linux (x86_64)
-                      Host: NIT Uttarakhand (B.Tech CSE '28 - CGPA: 9.08/10)
-                      Dual Degree: IIT Madras (BSc Data Science - CGPA: 7.67/10)
-                      Incoming Role: Software Engineer Intern @ Cisco Systems (Summer 2027)
-                      Core Focus: Low-Level Systems, Telemetry Ingestion, Distributed Backends
-                      Languages: C++20, Python 3.12, TypeScript, SQL, Bash
-                      Systems Depth: POSIX Sockets, TraCI/SWIG Memory Bindings, Linux Kernel Telemetry
-                      Frameworks & Infra: FastAPI, NestJS, React, Docker, Redis, Celery, Supabase
-                      Problem Solving: Codeforces [jord_ussop], Combinatorial Optimization
-                      Uptime: 20 Years - 5 Semesters - 100% Deterministic Execution
+       %%####***+*#         sachin@cisco-systems
+     ####***#######**       --------------------
+   %##*#######*++*###       OS: Ubuntu 24.04 LTS / Arch Linux (x86_64)
+   ######+----::::.*        Host: NIT Uttarakhand (B.Tech CSE '28 - CGPA: 9.08/10)
+   #####+-:-=+=--++=        Dual Degree: IIT Madras (BSc Data Science - CGPA: 7.67/10)
+    #*#*-:-====:.:-:+       Incoming Role: Software Engineer Intern @ Cisco Systems (Summer 2027)
+    #--==::::   == +        Core Focus: Low-Level Systems, Telemetry Ingestion, Distributed Backends
+     *-:-----+     *+       Languages: C++20, Python 3.12, TypeScript, SQL, Bash
+       *:===+++=++==#       Systems Depth: POSIX Sockets, TraCI/SWIG Memory Bindings, Linux Kernel Telemetry
+       ---=+******+#        Frameworks & Infra: FastAPI, NestJS, React, Docker, Redis, Celery, Supabase
+         .----====.         Problem Solving: Codeforces [jord_ussop], Combinatorial Optimization
+          :-----:           Uptime: 20 Years - 5 Semesters - 100% Deterministic Execution
 ```
 
 ---
