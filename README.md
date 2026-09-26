@@ -29,27 +29,20 @@
 
 ### 🖥️ Developer Terminal (`neofetch --engineer`)
 
-```text
+```bash
 sachin@workstation:~$ neofetch --swe-profile
   
-             ****************             sachin@workstation
-          ***@@@@@@@@@@@@@**%***          ------------------
-        **@@@@@@@@@@*@@@@@@@@@@@%*        OS: Ubuntu 24.04 LTS / Arch Linux (x86_64)
-      **@@@@@@@@@@@@@@@@@@@@@@@@@@        Host: NIT Uttarakhand (B.Tech CSE '28 - CGPA: 9.08/10)
-     *@@@@@@@@@@@@@@@@%%%%+%%@@@@         Dual Degree: IIT Madras (BSc Data Science - CGPA: 7.67/10)
-     *@@*@@@@@@%%%%%++==::::.=%           Research: IIT Roorkee (Microscopic Traffic & POSIX Telemetry)
-    *@@@@@@@@@%+===========++=+           Core Focus: Low-Level Systems, Telemetry Ingestion, Distributed Backends
-     *@@@@@@@%%==+***%%*+++**%%*          Languages: C++20, Python 3.12, TypeScript, SQL, Bash, C
-      *******+===@***@@@+:=@@@@=          Systems Depth: POSIX Sockets, TraCI/SWIG Memory Bindings, Linux Kernel
-      *******=====+=++@=::::.==.=         Frameworks: FastAPI, NestJS, React 19, Docker, Redis, Celery, Supabase
-       *+=***+===:::=++++++++**+:         Problem Solving: Codeforces [jord_ussop], Combinatorial Optimization
-        +=+%+%======+***%%%%%%#%=         Engineering Impact: Slashed Loopback Telemetry Latency by 79% (SWIG)
-        *+%+=+%+++++*#%+++ +  #%+         Platform Systems: Autonomous LLM Code-to-Cloud Architecture (Madme)
-          **+=**+++++%++++***=*%*         Uptime: 20 Years - 5 Semesters - 100% Deterministic Execution
-            %==**%*%###****%***%          Terminal: zsh (Tokyo Night Theme)
-            +==+%##%############          Shell: GNU bash 5.2 / zsh 5.9
-           ..%==++%%#######%%%%           Editor: Neovim / VS Code
-        *+....+==++++%%%%%%.=+.=          Status: Building High-Throughput Systems & Autonomous Platforms
+       /\_/\          sachin@workstation
+      ( o.o )         ------------------
+       > ^ <          OS: Ubuntu 24.04 LTS / Arch Linux (x86_64)
+                      Host: NIT Uttarakhand (B.Tech CSE '28 - CGPA: 9.08/10)
+                      Dual Degree: IIT Madras (BSc Data Science - CGPA: 7.67/10)
+                      Core Focus: Low-Level Systems, Telemetry Ingestion, Distributed Backends
+                      Languages: C++20, Python 3.12, TypeScript, SQL, Bash
+                      Systems Depth: POSIX Sockets, TraCI/SWIG Memory Bindings, Linux Kernel Telemetry
+                      Frameworks & Infra: FastAPI, NestJS, React, Docker, Redis, Celery, Supabase
+                      Problem Solving: Codeforces [jord_ussop], Combinatorial Optimization
+                      Uptime: 20 Years - 5 Semesters - 100% Deterministic Execution
 ```
 
 ---
@@ -123,7 +116,7 @@ sachin@workstation:~$ neofetch --swe-profile
 
 ---
 
-### 📊 Real-Time GitHub Analytics & Activity
+### 📊 GitHub Activity & Engineering Stats
 
 <div align="center">
   <table border="0">
@@ -132,11 +125,6 @@ sachin@workstation:~$ neofetch --swe-profile
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ray-sachin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Sachin's GitHub Stats" width="410" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=ray-sachin&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="410" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ray-sachin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="380" />
       </td>
     </tr>
