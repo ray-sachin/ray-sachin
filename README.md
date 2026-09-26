@@ -2,7 +2,7 @@
 
   <!-- Dynamic Typing Banner -->
   <a href="https://linkedin.com/in/ray-sachin/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sachin+Kumar+Ray+%F0%9F%91%8B;Low-Level+Systems+%7C+Distributed+Telemetry;B.Tech+CSE+%40+NIT+Uttarakhand+(CGPA+9.08);BSc+Data+Science+%40+IIT+Madras;Competitive+Programmer+%26+Systems+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sachin+Kumar+Ray+%F0%9F%91%8B;Incoming+Software+Engineer+Intern+%40+Cisco;Low-Level+Systems+%7C+Distributed+Telemetry;B.Tech+CSE+%40+NIT+Uttarakhand+(CGPA+9.08);BSc+Data+Science+%40+IIT+Madras" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -11,6 +11,7 @@
 
   <!-- Credential Badges -->
   <p align="center">
+    <a href="https://linkedin.com/in/ray-sachin/"><img src="https://img.shields.io/badge/Cisco-Incoming_SWE_Intern_'27-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /></a>
     <a href="https://www.nituk.ac.in/"><img src="https://img.shields.io/badge/NIT_Uttarakhand-B.Tech_CSE_'28-1E3A8A?style=for-the-badge&logo=google-classroom&logoColor=white" alt="NITUK" /></a>
     <a href="https://study.iitm.ac.in/ds/"><img src="https://img.shields.io/badge/IIT_Madras-BSc_Data_Science-D97706?style=for-the-badge&logo=affinity&logoColor=white" alt="IITM" /></a>
     <a href="https://codeforces.com/profile/jord_ussop"><img src="https://img.shields.io/badge/Codeforces-jord__ussop-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
@@ -32,11 +33,12 @@
 ```bash
 sachin@workstation:~$ neofetch --swe-profile
   
-       /\_/\          sachin@workstation
-      ( o.o )         ------------------
+       /\_/\          sachin@cisco-systems
+      ( o.o )         --------------------
        > ^ <          OS: Ubuntu 24.04 LTS / Arch Linux (x86_64)
                       Host: NIT Uttarakhand (B.Tech CSE '28 - CGPA: 9.08/10)
                       Dual Degree: IIT Madras (BSc Data Science - CGPA: 7.67/10)
+                      Incoming Role: Software Engineer Intern @ Cisco Systems (Summer 2027)
                       Core Focus: Low-Level Systems, Telemetry Ingestion, Distributed Backends
                       Languages: C++20, Python 3.12, TypeScript, SQL, Bash
                       Systems Depth: POSIX Sockets, TraCI/SWIG Memory Bindings, Linux Kernel Telemetry
@@ -116,7 +118,7 @@ sachin@workstation:~$ neofetch --swe-profile
 
 ---
 
-### 📊 GitHub Activity & Engineering Stats
+### 📊 Real-Time GitHub Analytics & Activity
 
 <div align="center">
   <table border="0">
@@ -125,6 +127,11 @@ sachin@workstation:~$ neofetch --swe-profile
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ray-sachin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Sachin's GitHub Stats" width="410" />
       </td>
       <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ray-sachin&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="410" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ray-sachin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="380" />
       </td>
     </tr>
