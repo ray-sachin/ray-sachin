@@ -28,58 +28,23 @@
 
 ---
 
-### 👤 Visual Identity & Terminal Profile
-
-<div align="center">
-
-```text
-                           %###########******##
-                    %%###******##****###***++****
-                  %#################*####***+++******
-                #######**#####**####%%%###*#******#*****
-              ####%#######****#**#%%%#%#%%%%#%%%#####****
-             ############**##*#%%###%%%%#%%@%%%@%%%%##***
-          %###%%#***#%%%####%%##%%%%#########%%%%%%%###**
-         ##%%##***#%%##****#%%%%#%%###*+++===+*#######*#
-        ####**#####%%########***+++++===----::::=*+*
-        ##*#*###########%#++====--==--:::::::::. :++
-        ##**##*#######%%*+----------:....:...:..  :+
-        ##*#%##%%%%%%%#*+=-::::::::::---::::--==+=:=
-        %###%%%#######*+=-::::-==+**++===----==++++-=
-         ###%#########*+-:::-++++++++++==---=**#*+=-:
-         %#%##########+-:::----=+****#*+=-:.-****===:
-          #%*########+-::::-==+*++++**+=-::...--==-::.
-           ##*#######+-:--------====-:::::::... :-:.. .
-            *===*####+-::::::::.....:-=-:::::::: -=--. +
-            +=-::-=+#*-::::::::::::--==--------==+++=-:-
-             ==::-=--*=-:-::::::::-====++*##****=-+#*=:=
-             *=-==-::-+=----:::---=*++========   ++#%= +
-              +--=-=-:===---------##*+=-         **#*
-               *-:----:====-====-==*++==++**+++    ** =
-                  +=--:-+====--=-=-=*==-   =+++++  +*=*
-                   ##-::====+===+++*+++====+++===  =++
-                    #+::-=+++++++****#*++=+++++++**+==
-                     =:::-=+++++++**************##****
-                    .=-::--=+*#******################
-                     --::---==+***######*#*#****+=+
-                      --------===+++++*******+-.:. -
-```
-
-</div>
+### 🖥️ Developer Terminal (`neofetch --engineer`)
 
 ```bash
 sachin@workstation:~$ neofetch --swe-profile
   
-  OS: Ubuntu 24.04 LTS / Arch Linux (x86_64)
-  Host: NIT Uttarakhand (B.Tech CSE '28 · CGPA: 9.08/10)
-  Dual Degree: IIT Madras (BSc Data Science · CGPA: 7.67/10)
-  Incoming Role: Software Engineer Intern @ Cisco Systems (Summer 2027)
-  Core Focus: Low-Level Systems, Telemetry Ingestion, Distributed Backends
-  Languages: C++20, Python 3.12, TypeScript, SQL, Bash
-  Systems Depth: POSIX Sockets, TraCI/SWIG Memory Bindings, Linux Kernel Telemetry
-  Frameworks & Infra: FastAPI, NestJS, React, Docker, Redis, Celery, Supabase
-  Problem Solving: Codeforces [jord_ussop], Combinatorial Optimization
-  Uptime: 20 Years · 5 Semesters · 100% Deterministic Execution
+       %%####***+*#         sachin@cisco-systems
+     ####***#######**       --------------------
+   %##*#######*++*###       OS: Ubuntu 24.04 LTS / Arch Linux (x86_64)
+   ######+----::::.*        Host: NIT Uttarakhand (B.Tech CSE '28 · CGPA: 9.08/10)
+   #####+-:-=+=--++=        Dual Degree: IIT Madras (BSc Data Science · CGPA: 7.67/10)
+    #*#*-:-====:.:-:+       Incoming Role: Software Engineer Intern @ Cisco Systems (Summer 2027)
+    #--==::::   == +        Core Focus: Low-Level Systems, Telemetry Ingestion, Distributed Backends
+     *-:-----+     *+       Languages: C++20, Python 3.12, TypeScript, SQL, Bash
+       *:===+++=++==#       Systems Depth: POSIX Sockets, TraCI/SWIG Memory Bindings, Linux Kernel Telemetry
+       ---=+******+#        Frameworks & Infra: FastAPI, NestJS, React, Docker, Redis, Celery, Supabase
+         .----====.         Problem Solving: Codeforces [jord_ussop], Combinatorial Optimization
+          :-----:           Uptime: 20 Years · 5 Semesters · 100% Deterministic Execution
 ```
 
 ---
@@ -149,28 +114,6 @@ sachin@workstation:~$ neofetch --swe-profile
 | **Data Science & ML Engineering** | `PyTorch` `Pandas` `NumPy` `Weights & Biases` `librosa` `LightGBM` `Vector Databases (Qdrant)` |
 | **DevOps, Testing & Tooling** | `Git` `GitHub Actions CI/CD` `Linux Bash` `Docker Compose` `Vitest` `Jest` `GDB` `strace` |
 
-</div>
-
----
-
-### 📊 Real-Time GitHub Analytics & Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ray-sachin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8" alt="Sachin's GitHub Stats" width="410" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=ray-sachin&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="410" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ray-sachin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="380" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
